@@ -31,5 +31,6 @@ authenticate-me
   * Phase 1 - Login form page
   * Phase 2 - Signup form page
   * Phase 3 - Logout
-  * Bonus Phase - Make the login form page into a modal
+  * Phase 4 - Make the login form page into a modal
+  * Phase 5 - Nest Login And Signup Buttons In Dropdown Menu
 * Deployment to Render with a React Frontend
