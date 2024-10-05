@@ -1,4 +1,4 @@
-# Bonus Phase: Nest Login And Signup Buttons In Dropdown Menu
+# Nest Login And Signup Buttons In Dropdown Menu
 
 Instead of having navigation buttons to open the login and signup form modals,
 you may want to trigger the opening of the login and signup form modals from
