@@ -252,9 +252,10 @@ After testing, **commit your `LoginFormPage` code**!
 
 ### Example `LoginFormPage` component
 
-Again, there is no absolute "right" way of doing this. As long as your React
-application is behaving as expected, then you don't need to make your code look
-exactly like the example code below.
+Again, there is no single "right" way to do this. For instance, you might 
+consider using [`reselect`](https://reselect.js.org/) to memoize your 
+selectors functions. As long as your React application behaves as expected, 
+there's no need to make your code match the example below exactly.
 
 Here's an example for `LoginFormPage` component:
 
